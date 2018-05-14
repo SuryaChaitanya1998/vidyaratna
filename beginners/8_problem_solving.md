@@ -1,20 +1,19 @@
-## Problem solving
+### Problem solving
 
-Problem Solving is the way a person apply his analytical skills in solving situation with a convenient approach. 
-It is called as competitive programming as several persons are competing to solve the given issue with their 
-programming skills.
+Problem Solving is the process of finding solutions to difficult or complex issues. 
+Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications
 
 ### Steps to solve a problem :
-There are only two steps needed in problem solving. They are :
+
+There are only two steps needed in problem solving. They are:
 1. Understand the given situation or problem clearly.
-2. Then, put your idea to solve in the form of code.
+2. Then, put your idea to solve it in the form of code.
 
 ### Platforms to practice :
-There are online judges which conduct coding contests regularly to improve coding skills. Short contests last for 3-5 
-hours, whereas long contests last for 10 days to one month. Even there are contests that will be conducted for a much 
-more long period. 
 
-Few of the coding platforms are:
+There are several online judges which conduct coding contests regularly in which one can participate to improve their coding skills. Short contests last for 2-5 hours, whereas long contests last from 10 days to one month. There are some contests which are held for years.
+
+Few of the online judges are:
 
 1. Topcoder.
 2. Codeforces.
@@ -24,12 +23,11 @@ Few of the coding platforms are:
 6. Hackerearth.
 7. Hackerrank.
 
-Several languages are available to code. Mainly "C++" is preferred. Next is Java and C. Other languages used are 
-Python,PERL, Ruby, PASCAL, C#, Scala, Swift, etc.,
+Several languages are available to code. C++ is mostly used by sport programmers, the next preffered language is Java followed by C. Other languages used are Python,PERL, Ruby, PASCAL, C#, Scala, Swift, etc.,
 
-#### Different Topics under problem solving
+#### Different Topics under competetive programming
 
-These are some of the important topics related to problem solving like:
+These are some of the important topics:
 
 1. Mathematical Concepts like Probability, Combinatorics.
 2. Graph Theory.
@@ -37,14 +35,16 @@ These are some of the important topics related to problem solving like:
 4. Dynamic Programming.
 5. Geometry.
 6. Strings.
+7. Greedy.
 
 ### Assignment
 
-Solve problems from hackerrank and codeforces in Python/C++. We will be evaluating everyone’s code 
-submissions, so please don’t copy the code. Plagiarism is not the way to get into the club. Show us 
+Solve the following problems in whichever language you are comfortable with. We will be evaluating your code, 
+so don’t copy the code. Plagiarism is not the way to get into the club. Show us 
 what you did and we’ll be happy with it :)
 
-#### Hackerrank
+### Hackerrank
+
 - https://www.hackerrank.com/challenges/solve-me-first/problem
 - https://www.hackerrank.com/challenges/simple-array-sum/problem
 - https://www.hackerrank.com/challenges/compare-the-triplets/problem
@@ -56,14 +56,15 @@ what you did and we’ll be happy with it :)
 - https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 - https://www.hackerrank.com/challenges/time-conversion/problem
 
-#### Codeforces
+### Codeforces
+
 - http://codeforces.com/problemset/problem/4/A
-- http://codeforces.com/problemset/problem/1/A
-- http://codeforces.com/problemset/problem/71/A
 - http://codeforces.com/problemset/problem/158/A
-- http://codeforces.com/problemset/problem/118/A
-- http://codeforces.com/problemset/problem/50/A
 - http://codeforces.com/problemset/problem/231/A
-- http://codeforces.com/problemset/problem/282/A
-- http://codeforces.com/problemset/problem/96/A 
-- http://codeforces.com/problemset/problem/112/A
+- http://codeforces.com/problemset/problem/546/A
+- http://codeforces.com/problemset/problem/69/A
+- http://codeforces.com/problemset/problem/617/A
+- http://codeforces.com/problemset/problem/266/A
+- http://codeforces.com/problemset/problem/271/A
+- http://codeforces.com/problemset/problem/50/A
+- http://codeforces.com/problemset/problem/451/A
